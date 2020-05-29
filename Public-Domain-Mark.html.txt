@@ -1,0 +1,8 @@
+<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work (<span property="dct:title">Malasyian Money Graphics</span>, by <a href="http://cakapcakap.com/topic/10/duit-kertas-malaysia-grafik-vektor" rel="dct:creator"><span property="dct:title">FakhrullahPadzil</span></a>), identified by <a href="http://fajarhac.com" rel="dct:publisher"><span property="dct:title">FakhrullahPadzil</span></a>, is free of known copyright restrictions.
+</p>
