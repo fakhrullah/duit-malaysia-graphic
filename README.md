@@ -4,6 +4,8 @@ Design duit kertas Malaysia - 20xx ~ 2020 (present)
 
 Design dalam bentuk grafik vektor (SVG), jadi sesiapa pun boleh edit.
 
+![duit-kertas malaysia](./tanpa-kepala.png)
+
 ## Lesen - Creative Commons Zero
 
 Guna sesuka hati anda dan saya tidak akan bertanggung jawab.
