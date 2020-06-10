@@ -1,4 +1,10 @@
-# Cara guna
+# Duit kertas Malaysia
+
+Design duit kertas Malaysia - 20xx ~ 2020 (present)
+
+Design dalam bentuk grafik vektor (SVG), jadi sesiapa pun boleh edit.
+
+## Lesen - Creative Commons Zero
 
 Guna sesuka hati anda dan saya tidak akan bertanggung jawab.
 Semua grafik dalam PNG berlesen CC0 atau public domain. 
